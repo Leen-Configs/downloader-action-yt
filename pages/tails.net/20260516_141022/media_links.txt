@@ -1,0 +1,17 @@
+./doc/about/trust/testimonials.inline/accessnow.png
+./doc/about/trust/testimonials.inline/eff.png
+./doc/about/trust/testimonials.inline/riseup.png
+./doc/about/trust/testimonials.inline/snowden.png
+./doc/about/trust/testimonials.inline/tor.png
+./index/activist.png
+./index/camping.png
+./index/city.png
+./index/gift.png
+./index/journalist.png
+./index/laptop.png
+./index/survivor.png
+./index/toolbox.png
+./index/you.png
+./lib/logo.png
+./lib/tor-black.png
+favicon.ico
